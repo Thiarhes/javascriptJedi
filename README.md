@@ -2,4 +2,4 @@
 
 ## PROGRAMADOR FULLSTACK JAVASCRIPT NODE -FORMAÇÃO MESTRE JEDI "Madson Aguiar Rodrigues"
 
-Um pouco sobre Git e GitHub
+Um pouco do básico sobre Git e GitHub.
